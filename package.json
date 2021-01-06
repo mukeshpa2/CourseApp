@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://mukeshpa2.github.io/CourseApp/",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "formik": "^1.5.1",
     "gh-pages": "^3.0.0",
     "react": "^16.8.5",
